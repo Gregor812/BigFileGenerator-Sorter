@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigFileSorter", "BigFileSorter\BigFileSorter.csproj", "{CE107B8A-694B-4B08-B068-29D7F0F6F7EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigFileGenerator", "BigFileGenerator\BigFileGenerator.csproj", "{3084B7CA-5E93-49C1-9BE2-46A6F65200C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE107B8A-694B-4B08-B068-29D7F0F6F7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE107B8A-694B-4B08-B068-29D7F0F6F7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE107B8A-694B-4B08-B068-29D7F0F6F7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE107B8A-694B-4B08-B068-29D7F0F6F7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3084B7CA-5E93-49C1-9BE2-46A6F65200C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3084B7CA-5E93-49C1-9BE2-46A6F65200C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3084B7CA-5E93-49C1-9BE2-46A6F65200C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3084B7CA-5E93-49C1-9BE2-46A6F65200C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B4B07EE-D124-4611-A527-198BADE056BB}
+	EndGlobalSection
+EndGlobal
